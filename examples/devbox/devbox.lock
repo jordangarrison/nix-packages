@@ -4,6 +4,10 @@
     "github:NixOS/nixpkgs/nixpkgs-unstable": {
       "last_modified": "2025-07-08T04:39:49Z",
       "resolved": "github:NixOS/nixpkgs/9b008d60392981ad674e04016d25619281550a9d?lastModified=1751949589&narHash=sha256-mgFxAPLWw0Kq%2BC8P3dRrZrOYEQXOtKuYVlo9xvPntt8%3D"
+    },
+    "github:jordangarrison/nix-packages#aproxymate": {
+      "last_modified": "2025-07-10T19:21:32Z",
+      "resolved": "github:jordangarrison/nix-packages/540a848ce61bcd46a5e43724751c17bffd9d260b?lastModified=1752175292&narHash=sha256-RJ0FcnzxCYUEnCrd1O1XT%2F0LhCGQBuvrxnd%2B7BYcZ5Q%3D#aproxymate"
     }
   }
 }
